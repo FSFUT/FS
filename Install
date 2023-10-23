@@ -1,4 +1,6 @@
 Install tapermonkey(borwser extension) for your browser from https://www.tampermonkey.net (https://www.youtube.com/watch?v=8tyjJD65zws)
-Install EAFC24-web-app script with tapermonkey (use this link https://github.com/oRastor/fc24-web-app/raw/master/fc24-autobuyer.user.js and press "Install" button)
-After that you got "autobuyer" menu item in the main menu of FUT web app (https://www.ea.com/ea-sports-fc/ultimate-team/web-app/)
+Copy EAFC24-web-app script with tapermonkey (Code Folder)
+After that you open web app once open click extensions then click on TamperMonkey, Click create new script, Paste code in, Press file then save
+Refresh web app then click on Tampermonkey and enable FSFUT BOT
+After that you refresh webb app then you have "autobuyer" menu item in the main menu of FUT web app (https://www.ea.com/ea-sports-fc/ultimate-team/web-app/)
 Enjoy
